@@ -1,7 +1,0 @@
-前端			后台
-/commlogin		/api/commlogin
-/hospitallogin		/api/hospitallogin
-/municipallogin		/api/municipallogin
-/provinciallogin		/api/provinciallogin
-/cdclogin			/api/cdclogin
-
